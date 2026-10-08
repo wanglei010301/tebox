@@ -1,4 +1,4 @@
-prefix=/Users/myt/Desktop/work/GKI/prebuilts/host/darwin-arm64/libepoxy
+prefix=${pcfiledir}/../..
 includedir=${prefix}/include
 libdir=${prefix}/lib
 
